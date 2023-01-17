@@ -1,0 +1,17 @@
+#Git
+.Git
+.gitignore 
+
+# Docker
+.docker
+
+# Python
+app/__pycacahe__/
+a==/*/__pycacahe__/
+app/*/*/__pycacahe__/
+app/*/*/*/__pycacahe__/
+.env/
+.venv/
+venv/
+
+
