@@ -1,17 +1,15 @@
-#Git
-.Git
-.gitignore 
+# Git
+.git
+.gitignore
 
 # Docker
 .docker
 
 # Python
-app/__pycacahe__/
-a==/*/__pycacahe__/
-app/*/*/__pycacahe__/
-app/*/*/*/__pycacahe__/
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/__pycache__/
 .env/
 .venv/
 venv/
-
-
